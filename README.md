@@ -2,10 +2,7 @@
 
 > A Vue.js project
 
-## 之后不要再 cnpm i 因为已经配置好了
-
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
