@@ -2,7 +2,6 @@
 
 > A Vue.js project
 
-## 第一次拉项目 git clone https://github.com/fionaaazhang/full-time.git
 ## 之后不要再 cnpm i 因为已经配置好了
 
 ## Build Setup
